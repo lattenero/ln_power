@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    ln_power (0.1.0)
+      valuable (~> 0.9.14)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.25.5)
+    rake (13.2.1)
+    valuable (0.9.14)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  ln_power!
+  minitest (~> 5.0)
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.6.9
