@@ -7,6 +7,7 @@ require_relative "ln_power/object"
 require_relative "ln_power/string"
 require_relative "ln_power/array"
 require_relative "ln_power/attr_with_default"
+require_relative "ln_power/ram_list"
 require_relative "ln_power/ram_store"
 
 module LnPower
