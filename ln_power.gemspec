@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = "Ruby Objects enhancer"
   spec.description = "Adds methods and functionalities to basic Ruby objects"
   spec.homepage = "https://github.com/lattenero/ln_power"
-  spec.license = "Proprietary"
+  spec.license = "Proprietario"
   spec.required_ruby_version = ">= 2.6.0"
 
 # spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
