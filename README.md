@@ -30,7 +30,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+This source code is private. All rights reserved. Access to the code is permitted, but all intellectual property rights remain exclusively with the author.
 
 ## Code of Conduct
 
